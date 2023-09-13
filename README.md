@@ -1,6 +1,9 @@
-# SekerMe Ecommerce 🛒 en flutter
-_Nuestra aplicación de comercio electrónico en Flutter es una solución completa y poderosa para realizar compras en línea de manera fácil y conveniente. Con una interfaz de usuario intuitiva y atractiva, te proporcionamos una experiencia de compra única y gratificante._
-_Esta aplicación está elaborada como material didáctico para el aprendizaje de flutter y su integración con firebase para aprendices del SENA_
+# Estructura básica de un proyecto de Flutter
+_Este proyecto es una estructura básica para el desarrollo de aplicaciones móviles en Flutter, 
+con el fin de facilitar el desarrollo de aplicaciones móviles en Flutter, se ha creado esta estructura básica 
+que contiene las dependencias necesarias para el desarrollo de aplicaciones móviles en Flutter, 
+además de la estructura de carpetas y archivos necesarios para el desarrollo de aplicaciones 
+móviles en Flutter._
 
 ## Comenzando 🚀
 
@@ -74,9 +77,9 @@ _Las siguientes dependencias son necesarias para poder ejecutar el aplicativo co
 
 * [Flutter](https://flutter.dev/docs/get-started/install) - Framework para desarrollo de aplicaciones móviles.
     #### Dependencias
-* [Firebase](https://firebase.google.com/) - Plataforma de desarrollo de aplicaciones móviles
+_Agrega las dependencias necesarias para el funcionamiento del aplicativo_
 * [Go Router](https://pub.dev/packages/go_router) - Librería para manejo de rutas en flutter
-* [Bloc](https://pub.dev/packages/flutter_bloc) - Librería para manejo de estados en flutter
+
 
 
 ## Contribuyendo 🖇️
